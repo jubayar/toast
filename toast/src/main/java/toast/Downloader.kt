@@ -5,6 +5,6 @@ import android.widget.Toast
 
 class Downloader {
     fun showMessage(context: Context) {
-        Toast.makeText(context, "Downloading...", Toast.LENGTH_SHORT).show()
+        Toast.makeText(context, "Testing 1, 2, 3", Toast.LENGTH_SHORT).show()
     }
 }
